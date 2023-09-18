@@ -1,0 +1,13 @@
+.muñeco-img {
+    width: 50%;
+    order: 1;
+}
+
+img {
+    height: 347px;
+}
+
+.text {
+    width: 50%;
+    order: 2;
+}
